@@ -4,13 +4,22 @@
     align-items: center;
 }
 
-ul {
+.nav-list {
     list-style-type: none;
     margin: 0;
     padding: 0;
     display: inline;
 }
 
-li {
+.nav-li {
     display: inline;
+    padding: 5px 5px;
+}
+
+.li-left{
+    float: left;
+}
+
+.li-right{
+    float: right;
 }
