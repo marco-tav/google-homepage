@@ -23,3 +23,13 @@
 .li-right{
     float: right;
 }
+
+.footer {
+    background-color: #f2f2f2;
+    height: 30px;
+    border: 0px;
+}
+
+body {
+    margin: 0px;
+}
