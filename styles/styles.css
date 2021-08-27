@@ -30,12 +30,14 @@ main {
 .nav-li {
     display: inline;
     padding: 5px 5px;
+    font-size: 12px;
 }
 
 .footer-li {
     display: inline;
     padding: 5px 5px;
     margin-top: 5px;
+    font-size: 14px;
 }
 
 .li-left{
@@ -53,4 +55,14 @@ main {
     border-top: 0.5px solid #e3e3e3;
     position: absolute;
     bottom: 0px;
+}
+
+a {
+    color: #4f4f4f;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+}
+
+a:hover {
+    text-decoration: underline;
 }
