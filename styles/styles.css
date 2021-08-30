@@ -22,15 +22,18 @@ main {
 
 .nav-list {
     list-style-type: none;
-    margin: 0;
     padding: 0;
     display: inline;
 }
 
 .nav-li {
     display: inline;
-    padding: 5px 5px;
+    padding: 20px 10px;
     font-size: 12px;
+}
+
+.nav-left {
+    margin-left: 100px;
 }
 
 .footer-li {
