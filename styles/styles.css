@@ -22,18 +22,21 @@ main {
 
 .nav-list {
     list-style-type: none;
+    margin: 0;
     padding: 0;
     display: inline;
 }
 
 .nav-li {
     display: inline;
-    padding: 20px 10px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
     font-size: 12px;
 }
 
-.nav-left {
-    margin-left: 100px;
+#about {
+    padding-left: 20px;
 }
 
 .footer-li {
@@ -113,6 +116,7 @@ a:hover {
     border: 0px;
     color: #ffffff;
     border-radius: 2px;
+    margin-right: 20px;
 }
 
 #sign-in:hover {
