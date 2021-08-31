@@ -96,7 +96,9 @@ a:hover {
 
 .search-bar {
     border: 1px solid #d6d6d6;
-    width: 200px;
+    width: 550px;
+    height: 40px;
+    border-radius: 25px;
 }
 
 .search-buttons {
