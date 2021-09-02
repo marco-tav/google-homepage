@@ -87,7 +87,7 @@ a:hover {
 
 #google-logo {
     padding: 25px;
-    width: 15%;
+    width: 272px;
     height: auto;
 }
 .search {
@@ -102,6 +102,12 @@ a:hover {
     width: 550px;
     height: 45px;
     border-radius: 30px;
+    background-image: url('../images/search-black-24dp.png');
+    background-repeat: no-repeat;
+    background-position-x: 12px;
+    background-position-y: center;
+    font-size: 16px;
+    padding-left: 45px;
 }
 
 .search-bar:hover {
