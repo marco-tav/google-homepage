@@ -87,6 +87,8 @@ a:hover {
 
 #google-logo {
     padding: 25px;
+    width: 15%;
+    height: auto;
 }
 .search {
     width: 500px;
